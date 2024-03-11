@@ -6,3 +6,26 @@
 	text-align: center;
 	margin: 0;
 }
+
+.projects {
+	margin-top: 50px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.project {
+	text-align: center;
+}
+
+.project-img {
+	width: 280px;
+	height: 220px;
+}
+
+.project-link {
+	text-decoration: none;
+	color: white;
+	background: black;
+	padding: 10px 15px;
+	border-radius: 20px;
+}
